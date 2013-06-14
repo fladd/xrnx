@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RenoiseScriptingTool doc_version="0">
+  <Name>Track Comments</Name>
+  <Id>de.fladd.TrackComments</Id>
+  <Version>0.5</Version>
+  <ApiVersion>3.0</ApiVersion>
+  <Author>Florian Krause (siebenhundertzehn@gmail.com)  </Author>
+  <Category>Pattern Editor</Category>
+  <Description>This tool adds a feature to make comments to each track. All data is stored in the global song comments.</Description>
+  <Homepage>http://www.fladd.de</Homepage>
+  <Icon/>
+</RenoiseScriptingTool>
